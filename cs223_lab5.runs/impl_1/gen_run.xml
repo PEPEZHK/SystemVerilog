@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1714390425">
+  <File Type="ROUTE-PWR" Name="secundomer_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="secundomer.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="secundomer_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="secundomer_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="secundomer_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="secundomer.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="secundomer_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="secundomer_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="secundomer_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="secundomer_opt.dcp"/>
+  <File Type="OPT-DRC" Name="secundomer_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="secundomer.hwdef"/>
+  <File Type="PWROPT-DCP" Name="secundomer_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="secundomer_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="secundomer_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="secundomer_placed.dcp"/>
+  <File Type="PLACE-IO" Name="secundomer_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="secundomer_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="secundomer_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="secundomer_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="secundomer_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="secundomer_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="secundomer_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="secundomer.bin"/>
+  <File Type="PLACE-TIMING" Name="secundomer_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="secundomer_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="secundomer_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="secundomer_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="secundomer.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="secundomer_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="secundomer_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="secundomer_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="secundomer.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="secundomer_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="secundomer_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="secundomer_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="secundomer_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="secundomer_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="secundomer_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="secundomer_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="secundomer_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="secundomer_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="secundomer_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="secundomer_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="secundomer_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="secundomer_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="secundomer_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="secundomer_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="secundomer_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="secundomer_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="secundomer_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="secundomer_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="secundomer_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="secundomer_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="secundomer_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="secundomer_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="final_state_machine_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="final_state_machine_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="final_state_machine_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="final_state_machine_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="secundomer.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="final_state_machine_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="final_state_machine_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="secundomer.nky"/>
+  <File Type="BITSTR-BMM" Name="secundomer_bd.bmm"/>
+  <File Type="PDI-FILE" Name="secundomer.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="secundomer_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="secundomer_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="secundomer.rcfi"/>
+  <File Type="CFI_FILE" Name="secundomer.cfi"/>
+  <File Type="RNPI_FILE" Name="secundomer.rnpi"/>
+  <File Type="NPI_FILE" Name="secundomer.npi"/>
+  <File Type="RBD_FILE" Name="secundomer.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="secundomer.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="secundomer.sysdef"/>
+  <File Type="BG-BGN" Name="secundomer.bgn"/>
+  <File Type="BG-DRC" Name="secundomer.drc"/>
+  <File Type="RDI-RDI" Name="secundomer.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="secundomer_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="secundomer_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/secundomer21.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/secundomer.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fonari.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/test1.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fonari_v2.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="secundomer"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/sec.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/constrs_1/new/sec21.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/constrs_1/new/fonari.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/sec.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/secundomer.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
